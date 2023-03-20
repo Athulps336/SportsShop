@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: darkgray;
+}
+.nvbar-link{
+    font-weight: bold;
+}
+.nvbar-link:hover{
+    text-decoration: underline;
+    color: red;
+}
+.image-1{
+    width: 100%;
+}
+.link-card{
+    text-decoration: none;
+
+}
+.link-card:hover{
+    color: red;
+}
+/* .image-1{
+    width: 100%;
+    height: 70%;
+} */
+.jursey{
+    justify-content: space-around;
+
+}
