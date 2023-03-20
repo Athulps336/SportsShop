@@ -1,6 +1,10 @@
 body{
     margin: 0;
-    background-color: darkgray;
+    background-color: rgb(133, 124, 124);
+}
+.shop-name{
+    color: red;
+    font-weight: bolder;
 }
 .nvbar-link{
     font-weight: bold;
@@ -25,5 +29,12 @@ body{
 } */
 .jursey{
     justify-content: space-around;
-
+}
+.foot-link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.inp-style{
+    border-radius: 2%;
 }
